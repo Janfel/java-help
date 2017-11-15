@@ -28,4 +28,5 @@ String concat(String... strings) {
 	}
 	/* We append every String in strings to our empty String. */
 	return string;
+	/* And return it after appending everything */
 }
